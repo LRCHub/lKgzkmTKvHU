@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hooligan",
+  "base_artist": "BTS",
+  "createdAt": "2026-03-28T13:31:19.330830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet and Tender Hooligan (Live)",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/01_Sweet_and_Tender_Hooligan_(Live)_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet & Tender Hooligan",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/02_Sweet_&_Tender_Hooligan_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "hooligan",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/03_hooligan_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet and Tender Hooligan (BBC Version)",
+      "artist": "The Smiths",
+      "has_synced": false,
+      "path": "select/04_Sweet_and_Tender_Hooligan_(BBC_Version)_The_Smiths.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet and Tender Hooligan",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/05_Sweet_and_Tender_Hooligan_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hooligan",
+      "artist": "Pretty Maids",
+      "has_synced": true,
+      "path": "select/06_Hooligan_Pretty_Maids.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Open Your Eyes (Hooligan remix)",
+      "artist": "Nalin & Kane",
+      "has_synced": false,
+      "path": "select/07_Open_Your_Eyes_(Hooligan_remix)_Nalin_&_Kane.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cowgirl (Atomic Hooligan mix)",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/08_Cowgirl_(Atomic_Hooligan_mix)_Underworld.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hooligan",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/09_Hooligan_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hooligan",
+      "artist": "KISS",
+      "has_synced": false,
+      "path": "select/10_Hooligan_KISS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet And Tender Hooligan - John Peel session, 12/2/86",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/11_Sweet_And_Tender_Hooligan_-_John_Peel_session,_12_2_86_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet And Tender Hooligan (Peel Session)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/12_Sweet_And_Tender_Hooligan_(Peel_Session)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss - Hooligan",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/13_Kiss_-_Hooligan_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hooligan",
+      "artist": "Embrace",
+      "has_synced": false,
+      "path": "select/14_Hooligan_Embrace.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hooligan",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Hooligan_BTS.txt"
+    }
+  ]
+}
